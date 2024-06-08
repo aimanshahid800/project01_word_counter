@@ -1,6 +1,3 @@
-Certainly! Below is a README template for your TypeScript and Node.js project that uses Inquirer and Chalk libraries. This README includes an introduction, installation instructions, usage examples, and additional sections that you might find useful for your project.
-
-```markdown
 # Word and Letter Counter
 
 This Node.js script provides a simple command-line utility to count the number of words and letters in a given paragraph. It leverages the power of `Inquirer.js` for interactive prompts and `Chalk` for colorful output.
